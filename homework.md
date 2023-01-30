@@ -6,7 +6,7 @@ Answers:
 
 --iidfile string Write the image ID to the file
 
-2- Answer: 3
+2- Answer: 3 packages
 
 #pip list
 Package Version
